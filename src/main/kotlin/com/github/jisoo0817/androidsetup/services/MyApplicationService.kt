@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.jisoo0817.androidsetup.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.jisoo0817.androidsetup.MyBundle
 
 class MyApplicationService {
 
